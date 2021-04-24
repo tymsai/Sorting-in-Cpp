@@ -1,3 +1,3 @@
 # Sorting in C++
 
-Arranging the Array of Names in Descending order using selection sort.
+Arranging the Array of Words/numbers/letters in Descending order using selection sort.
